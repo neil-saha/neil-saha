@@ -38,18 +38,13 @@
 
 ## 🎮 PLAYER PROFILE
 
-<pre>
-<code>
-┌─────────────────────────────────────────────────────────────────┐
-│ STATUS: ONLINE                                                  │
-│ CLASS: Backend & DevOps Engineer                                │
-│ EXPERIENCE: ~2 Years in Production                              │
-│ SPECIALIZATION: Cloud Architecture | API Design | Automation    │
-│ MISSION: Building scalable, reliable systems at warp speed      │
-└─────────────────────────────────────────────────────────────────┘
-</code>
-</pre>
+<div align="left">
 
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&duration=1500&pause=100&color=00FF00&vCenter=true&multiline=true&repeat=true&width=800&height=200&lines=%5B%E2%96%88%E2%96%88%5D+INITIALIZING+PROFILE...;%5B%E2%96%88%E2%96%88%5D+DECRYPTING+DATA...;%5B%E2%96%88%E2%96%88%5D;%5B%E2%96%88%E2%96%88%5D+STATUS%3A+%E2%96%BA%E2%96%BA+ONLINE;%5B%E2%96%88%E2%96%88%5D+CLASS%3A+Backend+%26+DevOps+Engineer;%5B%E2%96%88%E2%96%88%5D+EXPERIENCE%3A+~2+Years+in+Production;%5B%E2%96%88%E2%96%88%5D+SPEC%3A+Cloud+Architecture+%7C+API+Design+%7C+Automation;%5B%E2%96%88%E2%96%88%5D+MISSION%3A+Build+scalable%2C+reliable+systems;%5B%E2%96%88%E2%96%88%5D;%5B%E2%96%88%E2%96%88%5D+++++++PROFILE+LOADED)
+
+</div>
+
+<br/>
 Software engineer with 2 years of hands-on experience building and maintaining production systems.
 I work with Node.js, AWS, and CI/CD pipelines to deliver reliable software that solves real problems.
 
