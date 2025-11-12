@@ -29,7 +29,7 @@
 ### ⚡ CONNECTION PORTS ⚡
 
 [![GitHub](https://img.shields.io/badge/⚡_GitHub-neil--saha-FF00FF?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/neil-saha)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-neil--saha-00FFFF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://www.linkedin.com/in/neil-saha)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-neil--saha-00FFFF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://www.linkedin.com/in/neil-afk)
 [![Email](https://img.shields.io/badge/📧_Email-Connect-00FF00?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:greatdreamblue4545@gmail.com)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
